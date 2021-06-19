@@ -28,6 +28,11 @@ Side Note: For testing speech recognition feature, user must speak "information"
 ```sh
 npm start
 ```
+<!-- ## Code Contributors
+* [Abhisek Kumar](https://www.linkedin.com/in/abhisek-kumar-38148b18a/)
+* [Sai Kumar](https://www.linkedin.com/in/kundlapelli-sai-kumar-2691b6190/)
+* [Prateek Agrawal](https://www.linkedin.com/in/prateekagrawal1999/)
+* [Suddept Das](https://www.linkedin.com/in/sudeept-das-05990a164/) -->
 
 ## Author
 
