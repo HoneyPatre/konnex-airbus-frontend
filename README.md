@@ -1,8 +1,43 @@
-# konnex-airbus-frontend
+<h1 align="center">Welcome to Cadbury Assistance 👋</h1>
+<h3 align="center">konnex-airbus-frontend</h3>
 
-<h1 align="center">Welcome to Cadbury Assistant 👋</h1>
+> The project, “Cadbury Assistance” is a Hackthon Project, for AIRBUS Aerothon 3.0, consisting of a Assistive-Touch-Button feature injected into static Airbus homepage UI for users to have features like bug report, improvements, announcements, navigation, information and speech recognizer. My contribution in this project has been towards client side frontend creation i.e. assistive-touch-button, including pop ups, tables and redirections. Apart from this, I have implemented Speech Recognition feature which performs redirection using voice.
 
-> The project, “Cadbury Assistant” is a Hackthon Project, for AIRBUS Aerothon 3.0, consisting of a Assistive-Touch-Button feature injected into static Airbus homepage UI for users to have features like chatbot, bug report, .
+### 🏠 [Homepage](https://github.com/HoneyPatre/)
+
+## Prerequisites
+
+- npm 6.14.5
+- node 12.16.3
+- axios 0.21.1
+- react-assistivetouch-menu 0.0.3
+- react-speech-recognition 3.8.0
+- material-table 1.69.3
+
+## Install
+
+```sh
+npm i
+```
+* Client-side Libraries used : Material UI, Material Table, Axios, React Assistive Touch Menu, React Speech Recognition
+
+Side Note: For testing speech recognition feature, user must speak "information" to make the webpage redirection.
+
+## Usage
+
+```sh
+npm start
+```
+
+## Author
+
+👤 **Honey Patre**
+
+* Github: [@HoneyPatre](https://github.com/HoneyPatre)
+* LinkedIn: [@honey-patre](https://linkedin.com/in/honey-patre)
+* Youtube: [@honey-patre](https://www.youtube.com/channel/UCVFMjbTF1qmD3YrABDjc40Q)
+* Email    :  honeypatre019@gmail.com
+
 
 ## Links to project resources
 
