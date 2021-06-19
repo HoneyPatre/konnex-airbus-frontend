@@ -19,7 +19,7 @@
 ```sh
 npm i
 ```
-* Client-side Libraries used : Material UI, Material Table, Axios, React Assistive Touch Menu, React Speech Recognition
+Client-side Libraries used : Material UI, Material Table, Axios, React Assistive Touch Menu, React Speech Recognition
 
 Side Note: For testing speech recognition feature, user must speak "information" to make the webpage redirection.
 
