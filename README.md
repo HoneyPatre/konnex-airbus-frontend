@@ -1,5 +1,9 @@
 # konnex-airbus-frontend
 
+<h1 align="center">Welcome to Cadbury Assistant 👋</h1>
+
+> The project, “Cadbury Assistant” is a Hackthon Project, for AIRBUS Aerothon 3.0, consisting of a Assistive-Touch-Button feature injected into static Airbus homepage UI for users to have features like chatbot, bug report, .
+
 ## Links to project resources
 
 ### Assistive Button
